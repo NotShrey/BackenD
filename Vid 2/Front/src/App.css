@@ -1,0 +1,10 @@
+.app-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.joke-container {
+  /* Add any additional styling for individual joke containers if needed */
+  margin-bottom: 20px; /* Add margin to separate each joke container */
+}
