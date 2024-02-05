@@ -1,0 +1,3 @@
+when ever we try to talk or connect to Db we might face problems
+use try and catch 
+use async and await for data
